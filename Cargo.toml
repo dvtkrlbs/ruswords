@@ -1,0 +1,19 @@
+[package]
+name = "ruswords"
+version = "0.1.0"
+authors = ["Tunahan Karlıbaş <dvt.tnhn.krlbs@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4"
+xvii = "0.3"
+reqwest = "0.9"
+select = "0.4"
+failure = "0.1"
+url = "1.7"
+
+
+
+
+
+
